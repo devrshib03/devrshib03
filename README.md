@@ -8,7 +8,7 @@ I'm a passionate web developer focused on building modern and efficient web appl
 
 ## 📞 Contact
 
-| [**LinkedIn**](YOUR_LINKEDIN_URL) | [**Gmail**](mailto:YOUR_EMAIL_ADDRESS) | [**Instagram**](YOUR_INSTAGRAM_URL) | [**Telegram**](YOUR_TELEGRAM_URL) |
+| [**LinkedIn**]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/devrshi-bhavsar-934242305/)) | [**Gmail**](mailto:devrshib@gmail.com) | [**Instagram**](__ig.devrshi.__) | [**Telegram**](YOUR_TELEGRAM_URL) |
 |---|---|---|---|
 
 
