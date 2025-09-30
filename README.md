@@ -1,4 +1,6 @@
-# Hey there! I'm Devrshi 👋
+<h1 align="center">
+  <img src="image.svg" alt="Devrshi Bhavsar" />
+</h1>
 
 I'm a passionate web developer focused on building modern and efficient web applications.
 
